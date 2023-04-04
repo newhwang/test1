@@ -1,0 +1,30 @@
+강사
+  신성진
+  pxp13716@gmail.com
+
+
+참조 사이트
+  Node:               https://nodejs.org/ko/
+  VSCode:             https://code.visualstudio.com/
+  MDN:                https://developer.mozilla.org/ko/docs/Web/JavaScript
+
+  NPM:                https://www.npmjs.com/
+
+  babel:              https://babeljs.io/
+  babel plugin:       https://babeljs.io/docs/en/plugins/
+
+  Axios:              https://yamoo9.github.io/axios/
+  React:              https://ko.reactjs.org/
+  Redux:              https://ko.redux.js.org/introduction/getting-started
+      
+
+VSCode plugin
+  ES7 React/Redux/GraphQL/React-Native snippets
+  JavaScript (ES6) code snippets
+  Live Server
+
+  Korean Language Pack for Visual Studio Code
+  Material Icon Theme
+  Auto Rename Tag
+
+
